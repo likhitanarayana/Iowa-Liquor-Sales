@@ -9,6 +9,8 @@ Members:
     Anna Rulloda
     Thomas Gerrity
 
+The entire dataset can be found at this link: https://drive.google.com/open?id=1U5Yueqwcxn53WrMHn5RYaJiHjDMYCLvb
+
 Dataset Columns:
 
 'City'
