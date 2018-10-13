@@ -9,6 +9,7 @@ Members:
     Anna Rulloda
     Thomas Gerrity
 
+Likely due to the one-hot encoding of the Cities column, the data set is over 400MB.
 The entire dataset can be found at this link: https://drive.google.com/open?id=1U5Yueqwcxn53WrMHn5RYaJiHjDMYCLvb
 
 Dataset Columns:
@@ -51,6 +52,7 @@ Dependent variable columns divided by the population column
 The next 417 columns are the One-Hot-Encoded Cities
 
 Split-Date columns:
+
 'Dayofweek',
 'Week', - the week of the year 1-52
 'Month',
